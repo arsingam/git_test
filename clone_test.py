@@ -1,12 +1,6 @@
-avsnbcvabnvc
-abxcnbxznvcn
-ac nbx ncba
 
 
-nscvnbzxvcbnad
-scsnxcbnsnxc
-scmbsncvnsc
-i
-abcd
+print ("I am a good boy")
+print ("This is just a line")
+print ("This is a third line")
 
-after some changesn
